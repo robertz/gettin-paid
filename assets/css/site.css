@@ -1,0 +1,7 @@
+body {
+	padding-top: 70px;
+}
+
+[v-cloak] {
+	display: none;
+}
